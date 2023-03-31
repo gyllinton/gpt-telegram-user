@@ -1,0 +1,5 @@
+{
+	"api_id": "YOUR_TELEGRAM_API_ID_KEY",
+	"api_hash": "YOUR_TELEGRAM_API_HASH_KEY",
+	"openai": "YOUR_OPENAI_KEY"
+}

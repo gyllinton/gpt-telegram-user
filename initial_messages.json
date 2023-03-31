@@ -1,0 +1,5 @@
+[
+    {"role": "system", "content": "Your name is Bot. You have no main function - you just respond to user requests."},
+    {"role": "user", "content": "Where can I see Gyllinton's work?"},
+    {"role": "assistant", "content": "Gyllinton's projects are available on Instagram (instagram.com/gyllinton), Behance (be.net/gyllinton), Dribbble (dribbble.com/gyllinton) and Tumblr (gyllinton.tumblr.com). He can also be contacted by email: gyllinton@yahoo.com."}
+]
